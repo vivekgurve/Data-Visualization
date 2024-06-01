@@ -21,16 +21,16 @@ This repository provides a comprehensive guide on how to install Power BI Deskto
 
 ### 1. Download Power BI Desktop
 1. Go to the [Power BI website](https://powerbi.microsoft.com/en-us/desktop/).
-
+<img src="Images/Screenshot 2024-06-01 235005.png" title="PowerBI" alt="PowerBI"/>
 2. Click on the **"Download Free"** button.
-3. You will be redirected to the Microsoft Store. Click on the **"Get"** button to start the download.
-
+3. You will be redirected to the Microsoft Store. 
+<img src="Images/getpbid_04.png" title="PowerBI" alt="PowerBI"/>
+Click on the **"Install"** button to start the download.
 
 ### 2. Install Power BI Desktop
 1. Once the download is complete, open the installer file.
 2. Follow the on-screen instructions to complete the installation.
-
-![Power BI Installation](images/powerbi_installation_screenshots.png)
+<img src="Images/desktop-install-01.png" title="PowerBI" alt="PowerBI"/>
 
 ### 3. Launch Power BI Desktop
 1. After the installation is complete, launch Power BI Desktop from the Start menu or desktop shortcut.
