@@ -38,6 +38,7 @@ Click on the **"Install"** button to start the download.
 
 ### 4. First Time Setup
 1. When you launch Power BI Desktop for the first time, you will see the welcome screen. Click on **"Get started"**.
+<img src="Images/desktop-splash-screen.png" title="PowerBI" alt="PowerBI"/>   
 2. You can start by loading your data and creating your first report.
 
 ## Additional Resources
