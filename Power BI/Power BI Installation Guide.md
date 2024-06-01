@@ -46,12 +46,6 @@ Click on the **"Install"** button to start the download.
 - [Power BI Community](https://community.powerbi.com/)
 - [Power BI Tutorials](https://powerbi.microsoft.com/en-us/learning/)
 
-## Contributing
-We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - Thanks to Microsoft for providing Power BI and its excellent documentation.
 - Inspired by tutorials and guides from the Power BI community.
