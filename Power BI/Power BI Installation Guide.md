@@ -1,53 +1,48 @@
 # Power BI Installation Guide
 
-This repository provides a step-by-step guide to installing Power BI with detailed instructions and images.
+## Overview
+This repository provides a comprehensive guide on how to install Power BI Desktop on your computer. Power BI is a powerful business analytics tool by Microsoft that enables users to create interactive visualizations and business intelligence reports.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [System Requirements](#system-requirements)
-- [Installation Steps](#installation-steps)
-  - [Step 1: Download Power BI](#step-1-download-power-bi)
-  - [Step 2: Run the Installer](#step-2-run-the-installer)
-  - [Step 3: Complete Installation](#step-3-complete-installation)
-- [Getting Started with Power BI](#getting-started-with-power-bi)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-Power BI is a business analytics tool by Microsoft that provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
-
-## System Requirements
-- **Operating System**: Windows 10, Windows 7, Windows Server 2012 R2, Windows Server 2016
-- **Memory**: At least 1 GB available, 1.5 GB preferred
-- **Disk Space**: Minimum of 1 GB
-- **Display**: At least 1440x900 or 1600x900 (16:9) resolution
+## Prerequisites
+- Windows 7 / Windows Server 2008 R2, or later
+- .NET 4.5 or later
+- At least 2 GB of RAM (4 GB recommended)
+- At least 1 GB of available disk space, x64 processor
 
 ## Installation Steps
 
-### Step 1: Download Power BI
-- Visit the [Power BI Download Page](https://powerbi.microsoft.com/en-us/downloads/).
-- Click on the `Download Free` button.
+### 1. Download Power BI Desktop
+1. Go to the [Power BI website](https://powerbi.microsoft.com/en-us/desktop/).
 
-![Download Page](images/download-page.png)
+2. Click on the **"Download Free"** button.
+3. You will be redirected to the Microsoft Store. Click on the **"Get"** button to start the download.
 
-### Step 2: Run the Installer
-- Locate the downloaded file and double-click to run the installer.
-- Click `Next` to proceed with the installation.
 
-![Run Installer](images/run-installer.png)
+### 2. Install Power BI Desktop
+1. Once the download is complete, open the installer file.
+2. Follow the on-screen instructions to complete the installation.
 
-### Step 3: Complete Installation
-- Follow the on-screen instructions to complete the installation.
-- Once installed, launch Power BI from the Start Menu.
+![Power BI Installation](images/powerbi_installation_screenshots.png)
 
-![Complete Installation](images/complete-installation.png)
+### 3. Launch Power BI Desktop
+1. After the installation is complete, launch Power BI Desktop from the Start menu or desktop shortcut.
+2. You may be prompted to sign in with your Microsoft account.
 
-## Getting Started with Power BI
-After installation, you can start creating your first report by importing data and using the drag-and-drop interface to create visualizations.
+### 4. First Time Setup
+1. When you launch Power BI Desktop for the first time, you will see the welcome screen. Click on **"Get started"**.
+2. You can start by loading your data and creating your first report.
+
+## Additional Resources
+- [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
+- [Power BI Community](https://community.powerbi.com/)
+- [Power BI Tutorials](https://powerbi.microsoft.com/en-us/learning/)
 
 ## Contributing
-We welcome contributions from the community! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
+We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) for more information.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Acknowledgements
+- Thanks to Microsoft for providing Power BI and its excellent documentation.
+- Inspired by tutorials and guides from the Power BI community.
