@@ -26,19 +26,9 @@ This repository focuses on creating and utilizing data visualization tools to tr
 - Provides a competitive advantage
 - Fosters innovation and development
 
-## Project Features
-- **Interactive Dashboards**: Real-time data interaction and exploration.
-- **Customizable Charts**: Various chart types including bar, line, pie, and scatter plots.
-- **User-Friendly Interface**: Easy-to-use interface for both technical and non-technical users.
-- **Real-Time Data Updates**: Live data feed integration for up-to-date information.
-- **Export Options**: Export visualizations in multiple formats (PDF, PNG, CSV).
+## Data Visualization Tools Comparison
 
-# Data Visualization Tools Comparison
-
-## Overview
-This repository explores various data visualization tools and provides a comparative analysis based on parameters such as ease of use, customization, performance, supported data sources, and pricing.
-
-## Tools Covered
+### Tools Covered
 1. **Tableau**
 2. **Power BI**
 3. **D3.js**
@@ -82,7 +72,7 @@ This repository explores various data visualization tools and provides a compara
 - **Google Data Studio**: Free to use.
 - **Matplotlib**: Free and open-source.
 
-## Conclusion
+### Conclusion
 Choosing the right data visualization tool depends on your specific needs and context. Here's a quick summary:
 - **Tableau**: Best for high-end, powerful visualizations and large organizations.
 - **Power BI**: Great for users within the Microsoft ecosystem and those seeking a balance between cost and functionality.
