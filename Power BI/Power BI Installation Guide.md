@@ -1,5 +1,13 @@
-# Power BI Installation Guide
+<h1 align="center"> Getting Started with PowerBI </h1>
 
+<p align="center">  
+<br>
+<img src="Power BI/Images/power-bi-icons-1.jpg" title="PowerBI" alt="PowerBI" width="190" height="170"/>
+<be>
+</p>
+  
+<p align="center">
+  
 ## Overview
 This repository provides a comprehensive guide on how to install Power BI Desktop on your computer. Power BI is a powerful business analytics tool by Microsoft that enables users to create interactive visualizations and business intelligence reports.
 
