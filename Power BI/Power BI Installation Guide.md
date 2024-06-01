@@ -2,7 +2,7 @@
 
 <p align="center">  
 <br>
-<img src="Power BI/Images/power-bi-icons-1.jpg" title="PowerBI" alt="PowerBI" width="190" height="170"/>
+<img src="Images/power-bi-icons-1.jpg" title="PowerBI" alt="PowerBI" width="300" height="250"/>
 <be>
 </p>
   
