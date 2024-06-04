@@ -22,9 +22,7 @@ This repository focuses on creating and utilizing data visualization tools to tr
 ## Importance of Data Visualization
 - Aids in strategic decision-making
 - Monitors performance effectively
-- Optimizes operational efficiency
-- Provides a competitive advantage
-- Fosters innovation and development
+
 
 ## Data Visualization Tools Comparison
 
