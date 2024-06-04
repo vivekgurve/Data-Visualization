@@ -31,9 +31,7 @@ This repository focuses on creating and utilizing data visualization tools to tr
 ### Tools Covered
 1. **Tableau**
 2. **Power BI**
-3. **D3.js**
-4. **Google Data Studio**
-5. **Matplotlib**
+
 
 ## Comparison Parameters
 
