@@ -31,7 +31,6 @@ This repository provides detailed instructions and resources for understanding d
 - [Creating New Columns](#creating-new-columns)
 - [Creating Cards and Other Visuals](#creating-cards-and-other-visuals)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Introduction
 
