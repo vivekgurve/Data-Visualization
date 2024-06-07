@@ -30,7 +30,6 @@ This repository contains instructions and resources for creating a comprehensive
   - [Creating Slicers](#creating-slicers)
   - [Creating Various Charts](#creating-various-charts)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Introduction
 
