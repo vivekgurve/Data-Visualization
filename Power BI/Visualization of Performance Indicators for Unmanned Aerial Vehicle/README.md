@@ -29,7 +29,6 @@ This repository provides a comprehensive guide on visualizing data, creating int
 - [Adding Images, Shapes, and Cards](#adding-images-shapes-and-cards)
 - [Creating Groups](#creating-groups)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Introduction
 
